@@ -1,0 +1,6 @@
+{
+    "mongoURI" : "mongodb+srv://Filan:fisteku@wethedevelopers-kltwk.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "ba280b073d731014b5dd",
+    "githubSecret": "3c6dbff77a27bdc24d98e650e7c1ee7a415d6dd3"
+}
